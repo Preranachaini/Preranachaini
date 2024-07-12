@@ -1,6 +1,6 @@
-<img align="down" alt="coding" width="400" height="200" src="https://media1.tenor.com/m/ojlrR4H_5o0AAAAC/old-school-video-games.gif">
+<img align="down" alt="coding" width="1000" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmtxOTl4c2g1aW5mMXppYWx1bnpzdTdtdTB1ZWZrOGY3dXUzajM1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0fz5uNPHnoVHLEhAW2/giphy.webp">
 
-```scala
+```Scala
 -- 🚀 Welcome to my GitHub Universe! 🌟
 
 --🔍 Exploring the realms of code, one commit at a time! 💻
