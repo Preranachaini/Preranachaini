@@ -4,14 +4,21 @@
 
 🌱 Planting seeds of innovation and growth through open-source contributions. 🌿
 
-⚡️ Bringing ideas to life with the power of collaboration and creativity. 💡
+```scala
+INSERT INTO profile (user_id, full_name, role)
+VALUES (1, 'Prerana Chaini', 'Data Analyst');
 
-🌟 Join me on this journey as we build, innovate, and inspire together! 🌈
+INSERT INTO profile_details (user_id, location)
+VALUES (1, 'Hyderabad, Telangana');
 
-📫 Connect with me on Instagram / Linkedin: @preranachaini 📸
+INSERT INTO profile_skills (user_id, skill)
+VALUES (1, 'OracleSQL'), 
+       (1, 'Microsoft Power BI'),
+       (1, 'Tableau'),
+       (1, 'Data Visualization'),
+       (1, 'Python')
+       (1, 'Figma');
+
+COMMIT;
 
 
-<!---
-Preranachaini/Preranachaini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
