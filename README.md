@@ -20,5 +20,7 @@ VALUES (1, 'OracleSQL'),
 --🌱 Planting seeds of innovation and growth through open-source contributions. 🌿
 
 COMMIT;
+![old-school-video-games](https://github.com/user-attachments/assets/d5d0324d-e663-441f-b9b1-cf5cb86c2152)
+
 
 
