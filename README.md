@@ -1,3 +1,5 @@
+<img align="down" alt="coding" width="400" height="200" src="https://media1.tenor.com/m/ojlrR4H_5o0AAAAC/old-school-video-games.gif">
+
 ```scala
 -- 🚀 Welcome to my GitHub Universe! 🌟
 
@@ -20,3 +22,6 @@ VALUES (1, 'OracleSQL'),
 --🌱 Planting seeds of innovation and growth through open-source contributions. 🌿
 
 COMMIT;
+
+
+
